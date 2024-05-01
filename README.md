@@ -1,5 +1,5 @@
 # Profile Web
-### By Gifted Tech ###
+### By eusebius Lumiti###
 ---
 
 ***Deploy on [`VERCEL`](https://vercel.com/login).***
@@ -12,6 +12,6 @@ VERCEL PROCESS:
     4: Enter project name, env variables.
     5: And JUST CLICK "Deploy". 
 ```
-***Here's an Example [`OUTPUT`](https://gifted-tech.vercel.app).***
+***Here's an Example [`OUTPUT`]().***
 
 ---
